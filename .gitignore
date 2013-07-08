@@ -1,0 +1,12 @@
+# images
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+# python byte code
+*.pyc
+
+# what is DS_STORE anyways
+.DS_STORE
